@@ -11,6 +11,11 @@ public class GitConflictApplication {
 	
 	
 	String a="pratice";
+
+
+	
+	String msg="Welcome";
+	
 	
 	}
 
