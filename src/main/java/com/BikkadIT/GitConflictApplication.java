@@ -8,6 +8,11 @@ public class GitConflictApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GitConflictApplication.class, args);
+
+	
+	String msg="Welcome";
+	
+	
 	}
 
 }
